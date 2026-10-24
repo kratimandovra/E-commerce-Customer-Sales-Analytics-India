@@ -1,7 +1,7 @@
 # E-commerce-Customer-Sales-Analytics-India
 A full end-to-end data analytics project analyzing customer behavior and sales performance on a simulated Indian e-commerce platform across a 24-month period.
 
-**Tools Used:** Excel · SQL (SQLite) · Python (Pandas, Matplotlib, Seaborn) · Tableau Public
+**Tools Used:** Excel · SQL (SQLite) · Python (Pandas, Matplotlib) · Tableau Public
 
 ---
 
