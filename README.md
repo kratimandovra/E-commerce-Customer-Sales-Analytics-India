@@ -5,7 +5,7 @@ A full end-to-end data analytics project analyzing customer behavior and sales p
 
 ---
 
-## Project Overview
+## Overview of the Project
 
 | Metric | Value |
 | :--- | :--- |
